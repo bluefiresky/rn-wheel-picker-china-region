@@ -2,7 +2,7 @@
   "name": "rn-wheel-picker-china-region",
   "version": "1.0.3",
   "description": "a modal picker(wheel) of china province & city & region ",
-  "main": "./lib/index.js",
+  "main": "./lib/_index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
